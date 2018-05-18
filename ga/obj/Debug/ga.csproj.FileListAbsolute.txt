@@ -1,0 +1,19 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\bin\Debug\ga.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\bin\Debug\ga.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\bin\Debug\ga.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\obj\Debug\ga.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\obj\Debug\ga.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\obj\Debug\ga.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\obj\Debug\ga.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\obj\Debug\ga.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\obj\Debug\ga.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ga\ga\obj\Debug\ga.pdb
+C:\Users\Jarrod\Desktop\ga\ga\bin\Debug\ga.exe.config
+C:\Users\Jarrod\Desktop\ga\ga\bin\Debug\ga.exe
+C:\Users\Jarrod\Desktop\ga\ga\bin\Debug\ga.pdb
+C:\Users\Jarrod\Desktop\ga\ga\obj\Debug\ga.csprojResolveAssemblyReference.cache
+C:\Users\Jarrod\Desktop\ga\ga\obj\Debug\ga.Form1.resources
+C:\Users\Jarrod\Desktop\ga\ga\obj\Debug\ga.Properties.Resources.resources
+C:\Users\Jarrod\Desktop\ga\ga\obj\Debug\ga.csproj.GenerateResource.Cache
+C:\Users\Jarrod\Desktop\ga\ga\obj\Debug\ga.exe
+C:\Users\Jarrod\Desktop\ga\ga\obj\Debug\ga.pdb

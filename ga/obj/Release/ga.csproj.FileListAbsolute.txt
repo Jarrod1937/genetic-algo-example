@@ -1,0 +1,9 @@
+C:\Users\Jarrod\Desktop\ga\ga\bin\Release\ga.exe.config
+C:\Users\Jarrod\Desktop\ga\ga\bin\Release\ga.exe
+C:\Users\Jarrod\Desktop\ga\ga\bin\Release\ga.pdb
+C:\Users\Jarrod\Desktop\ga\ga\obj\Release\ga.Form1.resources
+C:\Users\Jarrod\Desktop\ga\ga\obj\Release\ga.Properties.Resources.resources
+C:\Users\Jarrod\Desktop\ga\ga\obj\Release\ga.csproj.GenerateResource.Cache
+C:\Users\Jarrod\Desktop\ga\ga\obj\Release\ga.exe
+C:\Users\Jarrod\Desktop\ga\ga\obj\Release\ga.pdb
+C:\Users\Jarrod\Desktop\ga\ga\obj\Release\ga.csprojResolveAssemblyReference.cache
